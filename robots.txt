@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://pictshare.github.io/sitemapx.xml
